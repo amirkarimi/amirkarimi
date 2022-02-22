@@ -1,6 +1,6 @@
 Hi :wave:
 
-:scroll: I love building stuff and automating things at scale.
+:hammer: I love building stuff and automating things at scale.
 
 :floppy_disk: I've been coding since the age of 14. In recent years I've mostly been designing and architecting software applications. But have never been away from coding. I've usually been a backend developer but also have developed a lot of web frontend as well as some Linux system software, Android and Windows desktop apps, etc.
 

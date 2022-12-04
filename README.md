@@ -8,4 +8,4 @@ Hi :wave:
 
 :penguin: Linux and everything open source is my passion.
 
-:speech_balloon: Feel free to reach out via https://4m1r.dev/contact/
+:speech_balloon: Feel free to reach out via https://4m1r.dev

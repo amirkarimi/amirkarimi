@@ -1,10 +1,11 @@
-Hi :wave: My name is Amir.
+### 👋 Hey, I’m Amir
 
-🔨 I love building stuff and automating things at scale.
+🔨 I love **building things** and **automating everything**, especially at scale.
 
-:floppy_disk: I've been coding since age 14. Currently, I'm an independent software engineer working as a consultant focusing on infrastructure and startups. In recent years I've mostly been designing and architecting software applications. But have never been away from coding. Though I've usually been a backend developer, I also have developed a lot of frontend web apps as well as a few Linux system software, Android and Windows desktop apps, etc.
+💾 I’ve been coding since I was 14, and these days I work as an **independent software engineer and consultant**, helping startups and teams build and scale their infrastructure. Most of my recent work has been around **software architecture and system design**, but I’ve never stopped coding.
 
-🧰 I have built different applications in `Python`, `Go`, `Scala`, `Java`, `JS/TS`, `C#`, `C/C++`, `HTML/CSS` (and more) that are running in production. I don't think a good software engineer should be limited to a specific language but if I get to choose, these days, I'm most interested in working with `Python` and `Go`.
+💻 I’m mainly a **backend developer**, though I’ve also built plenty of **frontend apps**, **Linux system tools**, and even a few **Android** and **Windows** desktop applications.
 
-:penguin: Linux and everything open source is my passion.
+🧰 Over the years, I’ve shipped production code in **Python**, **Go**, **Scala**, **Java**, **TypeScript/JavaScript**, **C#**, **C/C++**, **HTML/CSS**, and more. I don’t believe good engineers should be tied to one language, but if I had to pick favorites, these days it’s **Python** and **Go**.
 
+🐧 I’m passionate about **Linux** and the **open-source world**.

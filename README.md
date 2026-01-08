@@ -6,6 +6,6 @@
 
 💻 I’m mainly a **backend developer**, though I’ve also built plenty of **frontend apps**, **Linux system tools**, and even a few **Android** and **Windows** desktop applications.
 
-🧰 Over the years, I’ve shipped production code in **Python**, **Go**, **Scala**, **Java**, **TypeScript/JavaScript**, **C#**, **C/C++**, **HTML/CSS**, and more. I don’t believe good engineers should be tied to one language, but if I had to pick favorites, these days it’s **Python** and **Go**.
+🧰 Over the years, I’ve shipped production code in **Python**, **Go**, **Scala**, **Java**, **TypeScript/JavaScript**, **C#**, **C/C++**, **HTML/CSS**, and more. I don’t believe good engineers should be tied to one language, but if I had to pick favorites, these days it’s **Python** and **Rust**.
 
 🐧 I’m passionate about **Linux** and the **open-source world**.
